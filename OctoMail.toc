@@ -1,0 +1,11 @@
+﻿
+## Interface: 11200
+## Title: |cffabd473Octo|cffffffffMail
+## Author: shirsig, sica42 - OctoWoW fork by Roby_Brok
+## Version: 1.5.0
+## Notes: Mailbox enhancement - OctoWoW fork
+## X-Website: https://github.com/roby-brok/OctoMail
+## SavedVariables: OctoMail_AutoCompleteNames
+## SavedVariablesPerCharacter: OctoMail_To OctoMail_Point OctoMail_Log
+
+OctoMail.xml
